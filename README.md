@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertbolukbasi&show_icons=true&locale=en&layout=compact" alt="mertbolukbasi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbolukbasi&" alt="mertbolukbasi" /></p>
+
+![snake gif](https://github.com/mertbolukbasi/mertbolukbasi/blob/output/github-contribution-grid-snake.gif)
