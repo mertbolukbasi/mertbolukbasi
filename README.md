@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbolukbasi&label=Profile%20views&color=0e75b6&style=flat" alt="mertbolukbasi" /> </p>
 
+- 🔭 I’m currently working on **node.js and angular**
+
 - 🌱 I’m currently learning **rust, assembly and improving myself for backend**
 
 - 📫 How to reach me **bolukbasimert@hotmail.com**
+
+- ⚡ Fun fact **Arch linux is the best operating system;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
